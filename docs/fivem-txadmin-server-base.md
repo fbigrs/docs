@@ -47,7 +47,7 @@ After the upload, the "myserver" folder should look like this:
 We now have to finish the setup in txAdmin, and let the server know what resources it should use.
 For that, we log into txAdmin. The credentials for that can be found on your servers Dashboard.
 
-![img](https://screensaver01.zap-hosting.com/index.php/s/aTQeF69ojtqM9iX/preview)
+![img](https://screensaver01.zap-hosting.com/index.php/s/wzcQqB3MY7k28rZ/preview)
 
 ### Setup
 
