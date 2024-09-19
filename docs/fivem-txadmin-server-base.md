@@ -108,3 +108,15 @@ While editing the server.cfg, please also adjust the "sv_licenseKey" line and ad
 Now, we just press "Save & Start Server"
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/npwBepWP4W9Edop/preview)
+
+
+## Importing the Database
+
+If your Server needs a MySQL Database, it needs to include a .sql file. This has to be imported into the database. For that, we already have a guide, you can check it out here:
+GUIDE
+
+The last step now, would be to automatically configure the MySQL Connection String, so the server can connect to the database. To do so, visit the "Settings" Page of your Gameserver in the ZAP Interface, and at the bottom, click the "Reconfigure MySQL Connection String" button. 
+
+![img](https://screensaver01.zap-hosting.com/index.php/s/AntkEiRFwMGJq7J/preview)
+
+Simply restart your server afterwards, and you should be ready to join the server!
